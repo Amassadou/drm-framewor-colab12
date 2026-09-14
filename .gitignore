@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+ghoster/
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+
+# Codex
+.codex
+
+# Results
+artifacts/
+results/
+outputs/
+
+# Datasets
+data/
+datasets/
+
+# Generated images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.webp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
